@@ -61,7 +61,6 @@ function display(array $items): void
   }
 }
 
-
 $user = new User('Bob', 'Dylan');
 
 display([$productRect, $user, $productCirc]);
