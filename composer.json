@@ -1,0 +1,16 @@
+{
+  "name": "lucas/ynov-b2-b-oop",
+  "description": "Rappel POO Ynov B2 B 2021-2022",
+  "authors": [
+    {
+      "name": "Lucas",
+      "email": "lucas@ld-web.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
