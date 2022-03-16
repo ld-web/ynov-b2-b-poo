@@ -10,9 +10,9 @@
   - [Constantes de classe](#constantes-de-classe)
 - [L'héritage](#lhéritage)
   - [Portées et héritage](#portées-et-héritage)
--[Classes abstraites](#classes-abstraites)
--[Polymorphisme](#polymorphisme)
--[Interfaces](#interfaces)
+- [Classes abstraites](#classes-abstraites)
+- [Polymorphisme](#polymorphisme)
+- [Interfaces](#interfaces)
 
 La POO représente un changement de paradigme significatif. Nous allons parler dans cette partie des différentes notions à savoir pour pouvoir concevoir une architecture qui s'articule autour d'objets, capables de représenter des structures plus complexes que des variables simples (int, string, bool, etc...).
 
